@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sachin KN</h1>  
-<h3 align="center">Automation Engineer, Interested in QA & Machine learning.</h3>  
+<h3 align="center">Data Engineer, Interested in Data Orchestration & Machine learning.</h3>  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sachinlionel&label=Profile%20views&color=0e75b6&style=flat" alt="sudharsan-selvaraj" /> </p>  
 
